@@ -1,0 +1,6 @@
+{
+  "name": "Paymax",
+  "description": "A secure digital asset marketplace built to enable verified users to safely exchange digital assets through escrow protection, payment verification, and community reputation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
